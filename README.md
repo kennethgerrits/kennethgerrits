@@ -5,7 +5,7 @@
 📌 Based in the Netherlands <br>
 🎓 Computer science student & propaedeutic year in communication and multimedia design<br>
 
-![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennethgerrits&count_private=true&show_icons=true)
+<!-- ![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennethgerrits&count_private=true&show_icons=true) -->
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kennethgerrits)
 
