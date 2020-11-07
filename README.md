@@ -7,6 +7,6 @@
 
 <!-- ![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennethgerrits&count_private=true&show_icons=true) -->
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kennethgerrits)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kennethgerrits&layout=compact)
 
 [LinkedIn]: https://www.linkedin.com/in/kenneth-gerrits-0b25411a0/
