@@ -1,4 +1,6 @@
-### Hi there, I'm Kenneth 👋
+# Hi there, I'm Kenneth <img src="https://github.com/kennethgerrits/kennethgerrits/blob/main/assets/hi.gif" width="39px">
+
+<img align="right" src="https://github.com/kennethgerrits/kennethgerrits/blob/main/assets/study-room.png" alt="ria-monga" height="400" />
 
 🔭 I’m currently focussing on webdevelopment  <br>
 📫 Connect and contact me on: [LinkedIn] <br>
