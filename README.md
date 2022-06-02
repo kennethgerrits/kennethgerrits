@@ -1,4 +1,4 @@
-# Hi there, I'm Kenneth <img src="https://github.com/kennethgerrits/kennethgerrits/blob/main/assets/hi.gif" width="19px">
+# Hi there, I'm Kenneth <img src="https://github.com/kennethgerrits/kennethgerrits/blob/main/assets/hi.gif" width="39" height="39">
 
 <img align="right" src="https://github.com/kennethgerrits/kennethgerrits/blob/main/assets/programmer.gif" alt="study room graphic" height="300" />
 
